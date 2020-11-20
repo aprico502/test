@@ -1,0 +1,8 @@
+D:\Users\wangxing\Desktop\wx\c#\houfangjiaohui\houfangjiaohui\bin\Debug\houfangjiaohui.exe
+D:\Users\wangxing\Desktop\wx\c#\houfangjiaohui\houfangjiaohui\bin\Debug\houfangjiaohui.pdb
+D:\Users\wangxing\Desktop\wx\c#\houfangjiaohui\houfangjiaohui\obj\x86\Debug\houfangjiaohui.Form1.resources
+D:\Users\wangxing\Desktop\wx\c#\houfangjiaohui\houfangjiaohui\obj\x86\Debug\houfangjiaohui.Properties.Resources.resources
+D:\Users\wangxing\Desktop\wx\c#\houfangjiaohui\houfangjiaohui\obj\x86\Debug\houfangjiaohui.csproj.GenerateResource.Cache
+D:\Users\wangxing\Desktop\wx\c#\houfangjiaohui\houfangjiaohui\obj\x86\Debug\houfangjiaohui.exe
+D:\Users\wangxing\Desktop\wx\c#\houfangjiaohui\houfangjiaohui\obj\x86\Debug\houfangjiaohui.pdb
+D:\Users\wangxing\Desktop\wx\c#\houfangjiaohui\houfangjiaohui\obj\x86\Debug\houfangjiaohui.csprojResolveAssemblyReference.cache
